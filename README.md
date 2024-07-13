@@ -1,1 +1,1 @@
-"# StudyWithMe-project" 
+# StudyWithMe-project
